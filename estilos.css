@@ -1,0 +1,144 @@
+
+head { 
+    margin: 0%;
+    padding: 0%;
+    left: 0%;
+    right: 0%;
+}
+
+header {
+    width: 100%;
+    position: fixed;
+    background-color: black;
+    border: none;
+    margin: 0%;
+    margin-top: -1.5em;
+    left: 0%;
+    right: 0%;
+    padding: 0%;
+    margin-bottom: -1.5em;  
+    }
+
+
+main {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;    
+}
+
+
+footer
+{
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    text-align: center;
+    color: royalblue;
+    font-style: italic;
+}
+
+#menuSuperior  
+    li {            
+        display: inline-block;
+        vertical-align: middle;
+        width: 20%;
+        list-style-type: none;
+        }
+    a {
+        font-family: "Open Sans", sans-serif;
+        font-size: 18px;
+        color: red;
+        text-decoration: none;
+
+        }
+             
+#esquerda {
+    
+    
+    
+    
+}    
+
+#centro {
+    
+    float: inline-start;
+    vertical-align: middle;
+    text-align: center;
+}
+        
+.centralizado {
+    text-align: center;
+}
+          
+h2 {
+    color: royalblue;
+}
+
+h3 {
+    color: red;
+}
+
+
+#listaEnderecos 
+    li { 
+       list-style: none; 
+    }
+
+#contatos
+    li { 
+        list-style: none; 
+        display: inline-block;
+        width: 30%;           
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+#listaIndice
+    li { 
+        list-style: none; 
+        display: inline-block;
+        width: 20%;  
+    }
+    a {
+        text-decoration: none;
+    }
+
+#menuLateral
+li { 
+    list-style: none;
+    display: list-item;
+    width: 15%;     
+          
+}
+a {
+    text-decoration: none;
+}
+
+#produtos{
+    margin-left: 15%;
+}
+
+#listaProdutos 
+li { 
+    list-style: none; 
+    display: inline-block;
+    width: 20%;  
+    }
+a {
+    text-decoration: none;
+  }
+
+#lateral
+li {
+    width: 15%;
+}
+
+.precoFinal {
+color: red;
+}
+
+.precoDesconto {
+    text-decoration: line-through;
+    font-size: 15px;
+}
+
