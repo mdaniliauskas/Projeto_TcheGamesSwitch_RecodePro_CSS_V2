@@ -1,5 +1,5 @@
 # Projeto_TcheGamesSwitch_RecodePro_CSS_V2
-Repositório do  projeto Tche Games Switch - Versão 2 - Aplicação de estilo com CSS.
+Repositório do  projeto Tche Games Switch - Aplicação de estilo com CSS - Versão 2.
 
 Esse projeto é parte do curso de desenvolvedor Full Stack da Recode Pro 2020.
 
